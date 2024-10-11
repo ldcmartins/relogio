@@ -45,3 +45,6 @@ body {
     font-size: 60px;
 }
 
+.relogio span.tempo {
+    font-size: 10px;
+}
