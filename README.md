@@ -1,8 +1,8 @@
-<h1 align="center"> DevLinks  </h1>
+<h1 align="center">Projeto - Relógio Digital</h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-<br> https://ldcmartins.github.io/Primeiro-Projeto/
+Utilizei o projeto da Larissa Kich por meio do YouTube.
+<br> https://ldcmartins.github.io/relogio/
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="DevLinks.png" width="100%">
+  <img alt="projeto DevLinks" src="./images/digital-clock.png" width="90%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,18 +32,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Relógio Digital
 
 ## 🎓 Aprendizado
 
-Esse foi o meu primeiro projeto utilizando HTML, CSS e um pouco de JavaScript.
-
-Foi bem desafiador e me trouxe muitos aprendizados. Um ponto que achei muito bacana foi a questão de estilização do CSS. É incrível e por meio dele eu consigo estruturar uma página WEB do meu jeitinho. Achei fantástico!
-
-Outro ponto muito bacana foi a questão do JavaScript. A linguagem abre muitas ações executáveis, muito bacana. 
-
-Vou continuar estudando e me dedicando para aprender e melhorar cada vez mais! 
+Um projeto simples, porém pude aprender um pouco mais de JavaScript. <br>
+Está sendo muito bacana e desafiador poder aprender sobre a linguagem JS e sobre os if's e seus demais comandos.
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
