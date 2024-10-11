@@ -40,3 +40,8 @@ body {
     letter-spacing: 3px;
 }
 
+.relogio span {
+    font-weight: bolder;
+    font-size: 60px;
+}
+
